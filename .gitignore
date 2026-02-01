@@ -208,3 +208,7 @@ __marimo__/
 
 # PostgreSQL data directory
 ny_taxi_postgres_data/
+
+*.parquet
+*.csv
+
