@@ -1,0 +1,14 @@
+version: 2
+
+sources:
+  - name: raw_data
+    description: "Raw data for taxi rides"
+    database: taxi_rides_ny
+    schema: prod
+    tables:
+      - name: yellow_tripdata
+        description: "Table for taxi rides data"
+      - name: green_tripdata
+        description: "Table for taxi rides data"
+      - name: fhv_tripdata
+        description: "Table for FHV (For-Hire Vehicle) rides data"

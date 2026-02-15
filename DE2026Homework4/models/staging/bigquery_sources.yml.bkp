@@ -1,0 +1,12 @@
+version 2:
+
+sources:
+  - name: bigquery_data
+    description: "Raw data for taxi rides"
+    database: kestra-sandbox-2026
+    schema: zoomcamp
+    tables:
+      - name: yellow_tripdata
+        description: "Table for taxi rides data"
+      - name: green_tripdata
+        description: "Table for taxi rides data"

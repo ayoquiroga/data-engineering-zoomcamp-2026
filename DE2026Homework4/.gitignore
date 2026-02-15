@@ -1,0 +1,27 @@
+# dbt artifacts
+target/
+dbt_packages/
+logs/
+package-lock.yml
+
+# Data files
+data/
+*.duckdb
+*.duckdb.tmp/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# Scripts temporales de testing
+check_*.py
+query_*.py
+fix_*.py
+load_*.py
+
+# OS files
+.DS_Store
+Thumbs.db
