@@ -212,3 +212,30 @@ ny_taxi_postgres_data/
 *.parquet
 #*.csv
 
+
+.bruin.yml
+logs/runs
+logs/*.log
+*.py[cod]
+logs/queries
+
+# DuckDB databases
+*.duckdb
+*.db
+*.duckdb.wal
+
+# DLT (Data Load Tool)
+.dlt/
+
+# DBT
+dbt_packages/
+target/
+dbt_modules/
+
+# Bruin pipeline artifacts
+pipeline/*.duckdb
+pipeline/.dlt/
+
+# Data files (keep seeds in version control)
+*.parquet.gz
+*.parquet.snappy
