@@ -1,0 +1,3 @@
+Credit card trips: 257
+Total trips: 1,000
+Proportion: 25.7%

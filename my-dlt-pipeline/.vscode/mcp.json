@@ -1,7 +1,7 @@
 {
   "servers": {
     "dlt": {
-      "command": "uv",
+      "command": "C:\\Users\\aYo\\.local\\bin\\uv.exe",
       "args": [
         "run",
         "--with",
