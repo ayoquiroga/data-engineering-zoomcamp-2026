@@ -25,3 +25,4 @@ load_*.py
 # OS files
 .DS_Store
 Thumbs.db
+dbt_internal_packages/
