@@ -151,8 +151,16 @@ DE2026-Homework6/.env/
 DE2026-Homework6/env.bak/
 DE2026-Homework6/venv/
 DE2026-Homework6/venv.bak/
-DE2026-Homework6/code/fhvhv/
-DE2026-Homework6/code/fhvhv_tripdata_2021-01.csv
+DE2026-Homework6/code/*
+DE2026-Homework6/code/04_pyspark.ipynb
+#DE2026-Homework6/code/fhvhv/
+#DE2026-Homework6/code/fhvhv_tripdata_2021-01.csv
+DE2026-Homework6/notebooks/taxi_zone_lookup.csv
+DE2026-Homework6/notebooks/spark-warehouse
+DE2026-Homework6/notebooks/yellow/*
+#/workspaces/data-engineering-zoomcamp-2026/DE2026-Homework6/notebooks/yellow/2025/11
+
+
 # GCP credentials
 gcs.json
 
