@@ -159,6 +159,7 @@ DE2026-Homework6/notebooks/taxi_zone_lookup.csv
 DE2026-Homework6/notebooks/spark-warehouse
 DE2026-Homework6/notebooks/yellow/*
 #/workspaces/data-engineering-zoomcamp-2026/DE2026-Homework6/notebooks/yellow/2025/11
+logs/
 
 
 # GCP credentials
